@@ -1,2 +1,2 @@
 # Java-Calculator-GUI
-Simple Java calculator GUI with simple arithmetic functions
+Java calculator GUI with basic arithmetic functions similar to a simple handheld calculator
